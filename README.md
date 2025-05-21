@@ -45,7 +45,8 @@ The HC-SR04 sensor emits ultrasonic waves and measures the echo time to calculat
 
 
 🖼️ **Circuit Diagram**  
-![Circuit Diagram]([assets/circuit_diagram.jpg](https://github.com/user-attachments/assets/b9bc27fb-ee90-4756-b70b-6a58a0cf64ac))
+![Circuit Diagram](https://github.com/user-attachments/assets/f64aaa95-3b2d-4adc-a9ab-f7514fab20cb)
+
 
 ---
 
