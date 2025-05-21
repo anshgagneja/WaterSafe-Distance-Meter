@@ -41,10 +41,11 @@ The HC-SR04 sensor emits ultrasonic waves and measures the echo time to calculat
 - USB-to-B Cable + Power Supply
 
 🖼️ **Hardware Connections**  
-![Hardware Setup](assets/hardware_setup.jpg)
+![ Ultrasonic HC-SR04 module timing diagram](https://github.com/user-attachments/assets/8112edb2-7b11-4e3b-ade6-480abcdf5cb5)
+
 
 🖼️ **Circuit Diagram**  
-![Circuit Diagram](assets/circuit_diagram.jpg)
+![Circuit Diagram]([assets/circuit_diagram.jpg](https://github.com/user-attachments/assets/b9bc27fb-ee90-4756-b70b-6a58a0cf64ac))
 
 ---
 
